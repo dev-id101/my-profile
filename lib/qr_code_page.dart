@@ -80,7 +80,7 @@ class QrCodePage extends StatelessWidget {
       ),
     );
   }
-
+// add a comment here
   Widget shareRow({required Icon icon, required String text}) {
     return Column(
       children: [
